@@ -7,7 +7,7 @@ Projeto desenvolvido durante o curso de manipulação de elementos(DOM) utilizan
 <div style="display: inline_block">
  
  ### Versão desktop
- <img align="center" alt="versão desketop" src = "(https://user-images.githubusercontent.com/114626303/220458930-266b1919-2fa0-4af3-8249-d5a29adeda42.png" width="90%"/>
+ <img align="center" alt="versão desketop" src = "https://user-images.githubusercontent.com/114626303/220458930-266b1919-2fa0-4af3-8249-d5a29adeda42.png" width="90%"/>
 </div>
 
 <div style="display: block">
